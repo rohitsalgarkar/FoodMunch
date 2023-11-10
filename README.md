@@ -1,2 +1,2 @@
 # Food Munch Hotel Website
-live link: skylinediner.ccbp.tech
+live link: https://skylinediner.ccbp.tech/
